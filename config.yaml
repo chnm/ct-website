@@ -1,0 +1,8 @@
+baseURL: ''
+languageCode: 'en-us'
+title: 'Connecting Threads'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

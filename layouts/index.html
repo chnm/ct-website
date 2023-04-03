@@ -1,0 +1,15 @@
+{{ partial "head.html" . }}
+
+<body>
+  {{ partial "navigation.html" . }}
+
+  <main>
+    <div class="col-lg-8 mx-auto p-3 py-md-5">
+      {{ partial "header.html" }}
+
+      {{ .Content }}
+      
+      {{ partial "footer.html" . }}
+    </div>
+  </main>
+</body>
