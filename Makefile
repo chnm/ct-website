@@ -1,8 +1,11 @@
+# requires: https://www.npmjs.com/package/http-server
 preview :
-	# requires: https://www.npmjs.com/package/http-server
-	http-server ./public
+	hugo serve
 
-deploy :
+build : 
+	hugo --minify
+
+deploy : hugo
 	@echo "\nDeploying the site with rsync ..."
 	rsync --delete --itemize-changes --omit-dir-times \
 		--checksum -avz --no-t --no-perms --exclude-from=rsync-excludes \
