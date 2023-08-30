@@ -1,6 +1,16 @@
 <div class="container">
   <header class="site-navbar site-navbar-target" role="banner">
     <nav class="navbar navbar-expand-lg navbar-light">
+      <!-- logo -->
+      <a class="navbar-brand" href="/">
+        <img
+        src="/img/logo.png"
+        alt="Connecting Threads"
+        class="h-50 mr-3"
+        width="200"
+        height="200"
+      /> 
+    </a>
       <button
         class="navbar-toggler"
         type="button"
@@ -13,21 +23,16 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home</a>
+        <ul class="navbar-nav navbar-right">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.main }}
+          <li class="nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+            <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Essays</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Data</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
-          </li>
+          {{ end }}
         </ul>
       </div>
     </nav>
   </header>
 </div>
+
