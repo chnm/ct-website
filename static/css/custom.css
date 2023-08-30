@@ -1,3 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
+
 .active {
     border-bottom: 2px solid #000;
+}
+
+.navbar {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	margin-top: 3em;
+	border: none;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background-color: white;
+		color: black;
+}
+
+.navbar-default {
+	.navbar-brand,
+	.navbar-nav>li>a {
+    color: black;
+
+	}
+	.navbar-brand {
+		font-weight: 700;
+		font-size: 1.25em;
+		letter-spacing: 3px;
+	}
+}
+
+.container-fluid {
+	background-color: #fff;
+}
+
+.navbar-toggle {
+	border: none;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
 }
