@@ -3,14 +3,6 @@ title: Pilot
 slug: /pilot/
 ---
 
-<img class="d-block w-100" src="/img/1-Agostino_Brunias_-_A_Linen_Market_with_a_Linen-stall_and_Vegetable_Seller_in_the_West_Indies_-_Google_Art_Project.jpeg" />
-
-<p class="lead mt-4">Knitting together material from three collections &mdash; Victoria and Albert Museum, London, University of Glasgow Archives & Special Collections, and the Smithsonian Cooper Hewitt Design Museum, New York &mdash; the project re-centers the locus of global textile trade from White Euro-American markets to African diaspora markets. Our aim is to bring historical textiles from museum collections, archival records of textile production and circulation, and information on the use of these textiles in African diaspora communities in the Americas together in an interactive visual format that is easily understood by the public. In linking lesser-known Indian and Indian-imitation textiles as objects that clothed and shaped the lived experiences and identities within those within lesser-studied historical communities of color, this digital humanities project highlights contributions of under-represented communities to global cultures of fashion.</p>
-
-Our pilot phase is funded through a Level 1 "New Directions for Digital Scholarship in Cultural Institutions" grant from the National Endowment for the Humanities (NEH) and the Arts & Humanities Research Council (AHRC). For the exploratory level grant we will produce a design document and proof-of-concept prototype. Please check back for more in the coming months. If you would like to get in touch with us please email, Meha Priyadarshini (Meha.Priyadarshini@ed.ac.uk) or Deepthi Murali (dmurali2@gmu.edu).
-
-<hr class="col-3 col-md-2 mb-5 mt-5">
-
 <div
   id="carosuelInstitutionalPartnersIndicators"
   class="carousel slide"
@@ -111,6 +103,10 @@ Our pilot phase is funded through a Level 1 "New Directions for Digital Scholars
   </p>
 </div>
 
+Knitting together material from three collections---Victoria and Albert Museum, London, University of Glasgow Archives & Special Collections, and the Smithsonian Cooper Hewitt Design Museum, New York---the project re-centers the locus of global textile trade from White Euro-American markets to African diaspora markets. Our aim is to bring historical textiles from museum collections, archival records of textile production and circulation, and information on the use of these textiles in African diaspora communities in the Americas together in an interactive visual format that is easily understood by the public. In linking lesser-known Indian and Indian-imitation textiles as objects that clothed and shaped the lived experiences and identities within those within lesser-studied historical communities of color, this digital humanities project highlights contributions of under-represented communities to global cultures of fashion.
+
+Our pilot phase is funded through a Level 1 "New Directions for Digital Scholarship in Cultural Institutions" grant from the National Endowment for the Humanities (NEH) and the Arts & Humanities Research Council (AHRC). For the exploratory level grant we will produce a design document and proof-of-concept prototype. Please check back for more in the coming months. If you would like to get in touch with us please email, Meha Priyadarshini (Meha.Priyadarshini@ed.ac.uk) or Deepthi Murali (dmurali2@gmu.edu).
+
 <div class="row g-5">
   <div class="col-md-6">
     <h3>Principal Institutions</h3>
@@ -145,3 +141,5 @@ Our pilot phase is funded through a Level 1 "New Directions for Digital Scholars
     </ul>
   </div>
 </div>
+
+
