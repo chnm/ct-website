@@ -44,3 +44,17 @@
 .navbar-default .navbar-toggle .icon-bar {
     background-color: black;
 }
+
+#carouselIndicators {
+  width: 70%;
+  margin: 0 auto;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+
+#carosuelInstitutionalPartnersIndicators {
+  width: 70%;
+  margin: 0 auto;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
