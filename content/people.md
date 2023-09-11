@@ -51,7 +51,7 @@ slug: /people/
 <div class="row">
    <!-- Profile Photo Column -->
    <div class="col-md-3">
-       <img src="/img/profile-missing.jpg" alt="Victoria de Lorenzo" class="img-fluid rounded-circle" width="200" height="200">
+       <img src="/img/profile-delorenzo.png" alt="Victoria de Lorenzo" class="img-fluid rounded-circle" width="200" height="200">
    </div>
 
    <!-- Bio Column -->
