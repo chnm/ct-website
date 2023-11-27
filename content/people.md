@@ -56,7 +56,7 @@ slug: /people/
 
    <!-- Bio Column -->
    <div class="col-md-9">
-   <p><strong>Victoria de Lorenzo<br>Postdoctoral Research Fellow, University of Edinburgh<br>Lecturer, London College of Fashion, University of the Arts London</strong></p>
+   <p><strong>Dr. Victoria de Lorenzo<br>Postdoctoral Research Fellow, University of Edinburgh<br>Lecturer, London College of Fashion, University of the Arts London</strong></p>
   <p>Victoria de Lorenzo is a textile historian interested in the materiality of textiles as agents of economic and cultural change in processes of circulation from the eighteenth to the twentieth centuries. Her thesis, titled “Connecting Threads: The Transnational Textile Trade between Nineteenth-century Britain and the Spanish-speaking World,” employed a transnational approach to investigate the reciprocal impact of textile traders, recipient societies, and intermediaries in the Anglo-Hispanic textile trade between the 1830s and 1914, with a particular focus on Cuba. In her research, she applies an interdisciplinary approach, combining business records with other archival and material sources. She has published articles in Fashion Theory and, with the rest of the Connecting Threads team, in The Journal of Historians of Netherlandish Art. Most recently, she has received a research grant from The Karun Thakar Fund for a forthcoming article.</p>
   </div>
 
