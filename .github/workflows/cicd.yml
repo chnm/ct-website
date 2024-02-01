@@ -7,12 +7,6 @@ on:
       - "main"
       - "preview"
 
-env:
-  REGISTRY: ghcr.io
-  IMAGE_NAME: "ghcr.io/${{ github.repository }}"
-  DEVL_URL: "http://dev.conntectingthreads.co.uk/"
-  PROD_URL: "https://connectingthreads.co.uk/"
-
 jobs:
   hugo-build-release-deploy:
     uses: chnm/.github/.github/workflows/hugo--build-release-deploy.yml@main
