@@ -9,7 +9,7 @@ markup:
 
 sectionPagesMenu: 'main'
 
-menu: 
+menu:
   main:
     - name: 'Pilot'
       pageRef: 'pilot'
@@ -23,3 +23,6 @@ menu:
       pageRef: 'contact'
       weight: 3
       url: '/contact/'
+    - name: Project Launch Event
+      weight: 4
+      url: '/conference/'
