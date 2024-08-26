@@ -1,8 +1,8 @@
 # requires: https://www.npmjs.com/package/http-server
 preview :
-	hugo serve
+	hugo serve --disableFastRender --buildDrafts --buildFuture
 
-build : 
+build :
 	hugo --minify
 
 deploy : hugo
