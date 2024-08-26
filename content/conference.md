@@ -28,7 +28,7 @@ Registration required (link available soon)<br>
 <td>10:30 – 12:30</td>
 <td><ul>
 <li><p><strong>Welcome &amp; Opening Remarks</strong></p></li>
-<li><p><strong>The Connecting Threads Project: <br>Textiles Histories in India and the Caribbean:</strong>
+<li><p><strong>The Connecting Threads Project <br>Textile Histories in India and the Caribbean:</strong>
 <a
 href="https://global.oup.com/academic/product/weaving-histories-9780197266731"><u>Karuna
 Wielenga Dietrich</u></a>, <a
