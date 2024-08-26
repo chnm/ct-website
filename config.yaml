@@ -6,3 +6,23 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+sectionPagesMenu: 'main'
+
+menu:
+  main:
+    - name: 'Pilot'
+      pageRef: 'pilot'
+      weight: 1
+      url: '/pilot/'
+    - name: 'People'
+      pageRef: 'people'
+      weight: 2
+      url: '/people/'
+    - name: 'Contact'
+      pageRef: 'contact'
+      weight: 3
+      url: '/contact/'
+    - name: Project Launch Event
+      weight: 4
+      url: '/conference/'
