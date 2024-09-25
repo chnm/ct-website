@@ -8,7 +8,7 @@ Fashioning Madras in India and the Caribbean</h2>
 <aside>
 Date: 11 October 2024<br>
 Venue: V&amp;A Learning Centre and Online<br>
-Registration required (link available soon)<br>
+<a href="https://www.vam.ac.uk/event/YGVBDZm3qD/connecting-threads-onsite-october-2024">Registration required</a><br>
 £5 for in-person attendance; free for online participation
 </aside>
 
